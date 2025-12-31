@@ -1,6 +1,7 @@
 The MIT License
 
 Copyright (c) 2025 Ryan Manley <rmanley@stevens.edu>
+
 Copyright (c) 2018--2025 Jane Street Group, LLC <opensource-contacts@janestreet.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
